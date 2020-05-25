@@ -7,9 +7,9 @@ It is a java recommendation system that uses content filtering technique to reco
 
 ```xml
 <dependency>
-	<groupId>com.github.kawshik</groupId>
-	<artifactId>RecomendationSystem</artifactId>
-	<version>1.0.0</version>
+  <groupId>com.github.kawshik</groupId>
+  <artifactId>RecomendationSystem</artifactId>
+  <version>1.0.0</version>
 </dependency>
 ```
 

@@ -76,7 +76,7 @@ r.recommend(targetData);
 ## Response data format:
 The **recommend()** method will return an array of **ids** which will be the id of the source data object.
 ```json
-[11,13,16,1,12,29,3,5,14,15,28 ]
+[ 11,13,16,1,12,29,3,5,14,15,28 ]
 ```
 ___
 License: MIT
